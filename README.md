@@ -15,7 +15,7 @@ git clone https://github.com/qmk/qmk_firmware.git
 ```
 
 Following the official QMK guide to setup everything:
-<https://beta.docs.qmk.fm/tutorial/newbs_getting_started>
+<https://docs.qmk.fm/#/newbs_getting_started>
 
 At the end of the guide you should be able to run the following command and be able build everything successfully:
 
